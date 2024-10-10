@@ -1,0 +1,14 @@
+{
+  "name": "atividade-bets",
+  "version": "1.0.0",
+  "description": "\tatividade de bets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SENAI\""
+  ],
+  "author": "Julia Martins",
+  "license": "MIT"
+}
